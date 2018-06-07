@@ -1,2 +1,2 @@
-# python-maya-snippets
+# Python Maya snippets
 Maya python snippets
